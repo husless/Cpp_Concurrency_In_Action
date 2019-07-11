@@ -3,6 +3,7 @@ C++ Concurrency In Action
 *Practical Multithreading*
 -------------------------
 - 作者：Anthony Williams
+- 译者：陈晓伟
 
 ## 本书概述
 
@@ -31,16 +32,20 @@ Anthony Williams是BSI C++小组的成员，拥有10多年C++应用经验。
 内容的大体结构：
 
 - C++11编程
- 
+
 - 多核芯编程
 
 - 简单例子用于学习，复杂例子用于实践
 
 本书是为C++程序员所写，同僚中可能有人对并发还没什么了解，估计也有人已经使用其他语言、API或平台写过多线程程序。不过，在看本书的时候，你们都在同一“起跑线”上。
 
-访问本书论坛[曼宁-C++ Concurrency in Action](http://www.manning.com/williams/)可获取免费电子书，。
+访问本书论坛[曼宁-C++ Concurrency in Action](http://www.manning.com/williams/)可获取免费试读章节电子书。
 
-## 翻译地址
+## 本书相关
 
-- 仓库：https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action
-- 在线阅读：http://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/
+- github 翻译地址：https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action
+- gitbook 在线阅读：https://legacy.gitbook.com/book/chenxiaowei/cpp_concurrency_in_action
+- 极客学院在线阅读：http://wiki.jikexueyuan.com/project/cplusplus-concurrency-action/
+- 书中源码：https://github.com/bsmr-c-cpp/Cpp-Concurrency-in-Action
+- 学习C++11/14: http://www.bogotobogo.com/cplusplus/C11
+- 第二版github翻译地址：https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019
